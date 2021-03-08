@@ -1,2 +1,0 @@
-file2 tesing for remove and add two files at a time
-ok file2 . html
