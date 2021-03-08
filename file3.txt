@@ -1,0 +1,3 @@
+file3 tesing for remove and add two files at a time
+ok file3 . html
+bye! bye
